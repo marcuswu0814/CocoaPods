@@ -109,6 +109,22 @@ GIT
     bacon (1.2.0)
 
 GIT
+  remote: https://github.com/mfazekas/Core
+  revision: 8524bb4f428992f6ad5f822181c820be2bf4126d
+  branch: podspec-spm
+  specs:
+    cocoapods-core (1.12.1)
+      activesupport (>= 5.0, < 8)
+      addressable (~> 2.8)
+      algoliasearch (~> 1.0)
+      concurrent-ruby (~> 1.1)
+      fuzzy_match (~> 2.0.4)
+      nap (~> 1.0)
+      netrc (~> 0.11)
+      public_suffix (~> 4.0)
+      typhoeus (~> 1.0)
+
+GIT
   remote: https://github.com/mrackwitz/CLIntegracon.git
   revision: ca88b7b8920b6b6542f9b4ad2b1748855783dbae
   specs:
